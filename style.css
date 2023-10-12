@@ -11,7 +11,7 @@ body { font-family: 'Montserrat', sans-serif !important;
 
 #About {
     padding-top: 4rem ;
-    background-color: #000000;
+    background-color: #CBE7F9;
 }
 
 #Projects {
@@ -39,4 +39,10 @@ position: relative;
     font-size: 3em;
     color:black;
     line-height: 1
+}
+
+.projects .content {
+    
+    padding: 1rem 6%;
+    max-width:60rem;
 }
