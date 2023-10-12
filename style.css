@@ -18,3 +18,25 @@ body { font-family: 'Montserrat', sans-serif !important;
     padding-top: 2rem ;
     background-color: #ebe8e8;
 }
+
+.hero {
+min-height :100vh;
+display: flex;
+align-items: center;
+background-image: url('img/sudah\ lama\ tak\ berlayar.jpg') ;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+position: relative;
+}
+
+.hero .content {
+    padding: 1rem 6%;
+    max-width:60rem;
+}
+
+.hero .content h1 {
+    font-size: 3em;
+    color:black;
+    line-height: 1
+}
