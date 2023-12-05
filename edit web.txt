@@ -1,0 +1,8 @@
+﻿buka git bash her
+ketik code .
+
+
+buka terminal
+- git add .
+- git commit -m 'ubah'
+- git push
